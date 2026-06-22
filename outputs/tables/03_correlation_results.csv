@@ -1,0 +1,17 @@
+Pair,Method,r,p_value,n,significant
+Exports vs Revenue (levels),Pearson,"-0,035","0,8154",47,No
+Exports vs Revenue (levels),Spearman,"0,0542","0,7173",47,No
+Imports vs Revenue (levels),Pearson,"0,1414","0,343",47,No
+Imports vs Revenue (levels),Spearman,"0,1744","0,2411",47,No
+Exports vs Transactions (levels),Pearson,"-0,0246","0,8698",47,No
+Exports vs Transactions (levels),Spearman,"0,0674","0,6528",47,No
+Imports vs Transactions (levels),Pearson,"0,1585","0,2873",47,No
+Imports vs Transactions (levels),Spearman,"0,2273","0,1243",47,No
+Exports vs Revenue (growth rates),Pearson,"-0,1631","0,2787",46,No
+Exports vs Revenue (growth rates),Spearman,"-0,1592","0,2907",46,No
+Imports vs Revenue (growth rates),Pearson,"0,0126","0,9335",46,No
+Imports vs Revenue (growth rates),Spearman,"0,0646","0,6699",46,No
+Exports vs Transactions (growth rates),Pearson,"-0,109","0,4707",46,No
+Exports vs Transactions (growth rates),Spearman,"-0,1354","0,3697",46,No
+Imports vs Transactions (growth rates),Pearson,"0,113","0,4546",46,No
+Imports vs Transactions (growth rates),Spearman,"0,2549","0,0874",46,No

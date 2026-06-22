@@ -1,0 +1,5 @@
+Pair,dominant_lag,max_abs_r,r_at_lag,p_value,significant,interpretation
+Exports → Revenue,5,"0,3925","0,3925","0,0111",Yes,Trade leads sales
+Imports → Revenue,5,"0,3807","0,3807","0,0141",Yes,Trade leads sales
+Exports → Transactions,5,"0,4108","0,4108","0,0076",Yes,Trade leads sales
+Imports → Transactions,5,"0,3924","0,3924","0,0112",Yes,Trade leads sales
